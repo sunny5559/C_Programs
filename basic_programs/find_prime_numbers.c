@@ -11,7 +11,7 @@ int main()
    scanf("%d %d", &num1, &num2);
  
    //Display prime numbers for input range
-   printf("Prime numbers from %d and %d are:\n", num1, num2);
+   printf("Prime numbers from %d and %d are:- \n", num1, num2);
    for(i=num1+1; i<num2; ++i)
    {
       flag_var=0;
