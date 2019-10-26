@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(){
 int t, n, a, sum=0, i;
+printf("enter the value of t \n"):
 scanf("%d", &t);
 for(i=0; i<t; i++)
 { sum=0;
